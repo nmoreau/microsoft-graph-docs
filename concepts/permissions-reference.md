@@ -1668,7 +1668,7 @@ For more complex scenarios involving multiple permissions, see [Permission scena
 | _ExternalItem.ReadWrite.OwnedBy_ | Read and write external items | Allows the app to read and write external items on your behalf. The app can only read external items of the connection that it is authorized to. | Yes | No |
 | _ExternalItem.Read.All_ | Read all external items | Allows the app to read all external items on your behalf. | Yes | No |
 | _ExternalItem.ReadWrite.All_ | Read and write all external items | Allows the app to read and write all external items on your behalf. | Yes | No |
-| _ExternalGroup.Read.OwnedBy_ | Read external groups | Allows the app to read external groups on your behalf. The signed-in user must be an administrator. The app can only read external groups of the connection that it is authorized to. | Yes | No |
+| _ExternalGroup.Read.OwnedBy_ | Read external groups | Allows the app to read external groups on your behalf. The app can only read external groups of the connection that it is authorized to. | Yes | No |
 | _ExternalGroup.ReadWrite.OwnedBy_ | Read and write external groups | Allows the app to read and write external groups on your behalf. The app can only read external groups of the connection that it is authorized to. | Yes | No |
 | _ExternalGroup.Read.All_ | Read all external groups | Allows the app to read all external groups on your behalf. | Yes | No |
 | _ExternalGroup.ReadWrite.All_ | Read and write all external groups | Allows the app to read and write all external groups on your behalf. | Yes | No |
