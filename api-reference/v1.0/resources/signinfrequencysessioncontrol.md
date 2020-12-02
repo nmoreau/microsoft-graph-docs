@@ -41,7 +41,7 @@ The following is a JSON representation of the resource.
 ```json
 {
   "isEnabled": true,
-  "type": "String",
+  "type": "hours",
   "value": 1024
 }
 ```
